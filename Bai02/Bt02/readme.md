@@ -6,7 +6,7 @@
 - Lớp: CNTT18A
 
 ## 2. Link ứng dụng Expo
-[Dán link Expo Snack LearningApp tại đây]
+[(https://snack.expo.dev/@lamminhkhang/learningapp)]
 
 ## 3. Các component đã xây dựng
 - **Header:** Hiển thị lời chào và thông tin sinh viên.
@@ -15,7 +15,7 @@
 - **BottomMenu:** Thanh menu giả lập ở cuối màn hình.
 
 ## 4. Giao diện ứng dụng
-Chèn ảnh chụp màn hình Home của LearningApp tại đây.
+![alt text](anh.bt02-1.jpg)
 
 ## 5. Hình ảnh và code các component
 Chèn ảnh code của các component:
