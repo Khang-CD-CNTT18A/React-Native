@@ -15,7 +15,7 @@
 - FlatList: Hiển thị danh sách 6 sản phẩm.
 
 ## 4. Hình ảnh giao diện
-![Giao diện ProductApp](ProductApp.jpg)
+![Giao diện ProductApp](c:\Users\Admin\Pictures\ProductApp.jpg)
 
 ## 5. Các file code
 - App.js
