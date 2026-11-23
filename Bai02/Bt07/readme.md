@@ -65,19 +65,19 @@ Bt07/
 - Sử dụng TextInput và Pressable.
 - Xử lý sự kiện và điều hướng giữa các màn hình.
 
-## 8. Hình ảnh minh họa 
+## 8. Hình ảnh minh họa giao diện
 
-### 8.1. Giao diện
-![alt text](Bai02.bt07.1.jpg)
+### Hình ảnh 1
+![Giao diện 1](./image/Bai02.bt07.1.jpg)
 
-### 8.2. Danh sách dịch vụ
-![alt text](Bai02.bt07.2.jpg)
+### Hình ảnh 2
+![Giao diện 2](./image/Bai02.bt07.2.jpg)
 
-### 8.3. Đặt lịch
-![alt text](Bai02.bt07.3.jpg)
+### Hình ảnh 3
+![Giao diện 3](./image/Bai02.bt07.3.jpg)
 
-### 8.4. Xác nhận đặt lịch
-![alt text](Bai02.bt07.4.jpg)
+### Hình ảnh 4
+![Giao diện 4](./image/Bai02.bt07.4.jpg)
 
 ## 9. Thông tin sinh viên
 
